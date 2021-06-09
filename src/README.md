@@ -1,1 +1,1 @@
-# -vitoriabezerra-Avanade.SubTCSE.Projeto.Api-
+Avanade.SubTCSE.Projeto.Api-
