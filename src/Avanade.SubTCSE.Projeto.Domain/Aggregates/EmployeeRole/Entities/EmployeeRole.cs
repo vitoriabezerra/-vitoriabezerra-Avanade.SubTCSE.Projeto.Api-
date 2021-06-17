@@ -5,10 +5,16 @@
 
 
 
-        public EmployeeRole(string id, string rolename)
+        public EmployeeRole(string id, string roleName)
         {
             Id = id;
-            RoleName = rolename;
+            RoleName = roleName;
+        }
+
+
+        public EmployeeRole(string roleName)
+        {
+            RoleName = roleName;
         }
         public string Id { get; set; }
 
